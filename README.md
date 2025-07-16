@@ -21,10 +21,3 @@ This project detects **cognitive load** based on how a user types. It uses simul
 - `pauses`: Count of idle pauses
 - `errors`: Simulated errors or backspace use
 
-# How to Run
-
-# 1. Clone this Repository
-```bash
-git clone https://github.com/Arisinapallisumanth2/Typing-Load-Detection.git
-cd Typing-Load-Detection
-﻿# Typing Cognitive Load Detection App
