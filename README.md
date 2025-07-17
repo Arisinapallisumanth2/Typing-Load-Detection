@@ -31,13 +31,13 @@ This project detects **cognitive load** based on how a user types. It uses simul
 # Demo Screenshots
 
 # Live Typing Interface
-![Typing Demo](Liveshots/live_typing_demo.png)
+![Typing Demo](screenshots/live_typing_demo.png)
 
 # Prediction Output
-![Prediction Output](Liveshots/prediction_output.png)
+![Prediction Output](screenshots/prediction_output.png)
 
 # EDA Insight
-![EDA Plot](Liveshots/eda_insights7.png)
+![EDA Plot](screenshots/eda_insights7.png)
 
 ---
 
