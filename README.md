@@ -26,18 +26,5 @@ This project detects **cognitive load** based on how a user types. It uses simul
 - `pauses`: Count of idle pauses
 - `errors`: Simulated errors or backspace use
 
-
-
-# Demo Screenshots
-
-# Live Typing Interface
-![Typing Demo](screenshots/live_typing_demo.png)
-
-# Prediction Output
-![Prediction Output](screenshots/prediction_output.png)
-
-# EDA Insight
-![EDA Plot](screenshots/eda_insights7.png)
-
 ---
 
