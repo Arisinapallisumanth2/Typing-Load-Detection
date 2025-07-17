@@ -25,6 +25,19 @@ This project detects **cognitive load** based on how a user types. It uses simul
 - `speed`: Typing speed (characters/sec)
 - `pauses`: Count of idle pauses
 - `errors`: Simulated errors or backspace use
+  
+# ML Model Info
+- Features used: typing speed, word length, pause duration
+- Model: RandomForest Classisfier (or any ML model)
+- Accuracy: ~95-100% on validation data
 
+# Future Scope
+- Expand to multitasking tests (switching tasks)
+- Use webcam to analyze facial fatigue + typing
+- Add audio-based analysis for stress signals
+
+##  Author
+Sumanth Arisinapalli
+🔗 GitHub
 ---
 
