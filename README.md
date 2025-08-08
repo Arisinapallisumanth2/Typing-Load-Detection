@@ -36,8 +36,5 @@ This project detects **cognitive load** based on how a user types. It uses simul
 - Use webcam to analyze facial fatigue + typing
 - Add audio-based analysis for stress signals
 
-##  Author
-Sumanth Arisinapalli
-🔗 GitHub
 ---
 
